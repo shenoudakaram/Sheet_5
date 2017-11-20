@@ -1,0 +1,16 @@
+﻿Build started 19/11/2017 09:28:06 م.
+     1>Project "D:\programs\sheet 5\P5\P5.vcxproj" on node 2 (Build target(s)).
+     1>_MASM:
+         Assembling f5.asm...
+         cmd.exe /C "C:\Users\free\AppData\Local\Temp\tmp17d83513133945ee9e3b9d9d1139bf1c.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\f5.obj" /W3 /errorReport:prompt  /Taf5.asm
+     1>f5.asm(54): warning A4006: too many arguments in macro call
+     1>f5.asm(47): error A2022: instruction operands must be the same size
+     1>f5.asm(50): error A2022: instruction operands must be the same size
+     1>f5.asm(51): error A2022: instruction operands must be the same size
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\f5.obj" /W3 /errorReport:prompt  /Taf5.asm" exited with code 1.
+     1>Done Building Project "D:\programs\sheet 5\P5\P5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.81
